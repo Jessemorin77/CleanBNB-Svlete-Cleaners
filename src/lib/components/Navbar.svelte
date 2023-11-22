@@ -13,13 +13,13 @@
   let showMenu = false;
 </script>
 
-<nav class="fixed z-30 w-full border-b border-gray-200 bg-white">
+<nav class="fixed z-30 w-full border-b border-gray-200 bg-gray-400">
   <div class="px-3 py-3 lg:px-5 lg:pl-3">
     <div class="flex items-center justify-between">
       <div class="ml-2 flex items-center justify-start">
         <a href="/" class="flex items-center space-x-2">
           <Hexagon />
-          <span class="text-md self-center whitespace-nowrap font-semibold"> Flowbite </span>
+          <span class="text-md self-center whitespace-nowrap font-semibold"> CleanBNB </span>
         </a>
       </div>
       <div>
